@@ -1,28 +1,10 @@
-<!-- 🚀 FUTURISTIC GITHUB PROFILE - RUPESH CHINTAKAYALA 🚀 -->
-
-<div align="center">
-  
-  <!-- Animated Header Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=RUPESH%20CHINTAKAYALA&fontSize=50&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20|%20Full-Stack%20Engineer%20|%20Cloud%20Architect&descSize=18&descAlignY=55"/>
-  
-  <!-- Matrix-style animated typing -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%3E+ACCESSING+NEURAL+NETWORK...;%3E+DATA+ANALYTICS+MSc+GRADUATE;%3E+FULL-STACK+ENGINEER+%7C+JAVA+%7C+PYTHON;%3E+CLOUD-NATIVE+DEVELOPER+%7C+AWS+%7C+GCP;%3E+SYSTEM+ONLINE+%E2%9C%93" alt="Futuristic Typing SVG" />
-  
-</div>
-
----
-
 <div align="center">
 
-## 🌐 **NEURAL PROFILE INTERFACE** 🌐
+<!-- Elegant Header with Blue-Black Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,20,30&height=180&section=header&text=Rupesh%20Chintakayala&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Full-Stack%20Engineer%20%7C%20Cloud%20Architect&descSize=16&descAlignY=60"/>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  🧠 COGNITIVE STATUS: [████████████████████████] 100% ONLINE ║
-║  🔋 ENERGY LEVEL:     [████████████████████████] MAXIMUM     ║
-║  🚀 MISSION STATUS:   [████████████████████████] ACTIVE      ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<!-- Professional Typing Animation with Blue Theme -->
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=24&duration=4000&pause=1000&color=1E3A8A&center=true&vCenter=true&width=600&lines=M.Sc.+Data+Analytics+Graduate;5%2B+Years+Full-Stack+Experience;Cloud-Native+Solutions+Architect;Performance+%26+Scalability+Expert" alt="Professional Typing SVG" />
 
 </div>
 
@@ -30,37 +12,34 @@
 
 <div align="center">
 
-### 🔮 **QUANTUM IDENTITY MATRIX** 🔮
+## 👨‍💻 **Professional Overview**
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-```ascii
-    ╭─────────────────────────╮
-    │    PERSONAL STATS       │
-    ├─────────────────────────┤
-    │ 🎓 Education: M.Sc.     │
-    │ 💼 Experience: 5+ Years │
-    │ 🌟 Specialization: Data │
-    │ ☁️  Cloud: AWS + GCP    │
-    │ 🔧 Focus: Full-Stack    │
-    ╰─────────────────────────╯
+**🎓 Education**
+```
+M.Sc. Data Analytics
+First Class Honours
 ```
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-```ascii
-    ╭─────────────────────────╮
-    │    MISSION OBJECTIVES   │
-    ├─────────────────────────┤
-    │ 📊 Data → Insights      │
-    │ ⚡ Performance Optimize │
-    │ 🔄 CI/CD Automation     │
-    │ 🏗️  Scalable Solutions  │
-    │ 🤖 Problem Solving      │
-    ╰─────────────────────────╯
+**💼 Experience**
+```
+5+ Years
+Full-Stack Development
+```
+
+</td>
+<td align="center" width="33%">
+
+**☁️ Specialization**
+```
+Cloud Architecture
+AWS & GCP Certified
 ```
 
 </td>
@@ -73,106 +52,131 @@
 
 <div align="center">
 
-## 🛡️ **TECH ARSENAL & COMBAT SYSTEMS** 🛡️
+## 🔧 **Technical Expertise**
 
 </div>
 
-<details>
-<summary>🔫 <b>PRIMARY WEAPONS (Languages)</b></summary>
-<br>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### **Core Technologies**
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
-![R](https://img.shields.io/badge/R_LANG-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=000000)
-![SQL](https://img.shields.io/badge/SQL_DB-003B57?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)
+![Java](https://img.shields.io/badge/Java-1E3A8A?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1E40AF?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1E3A8A?style=for-the-badge&logo=typescript&logoColor=white)
+![R](https://img.shields.io/badge/R-2563EB?style=for-the-badge&logo=r&logoColor=white)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1E40AF?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-1E3A8A?style=for-the-badge&logo=react&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-2563EB?style=for-the-badge&logo=graphql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1E40AF?style=for-the-badge&logo=node.js&logoColor=white)
 
 </div>
 
-</details>
-
-<details>
-<summary>⚔️ <b>TACTICAL FRAMEWORKS</b></summary>
-<br>
+### **Data & Analytics**
 
 <div align="center">
 
-![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=000000)
-![GraphQL](https://img.shields.io/badge/GRAPHQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=000000)
-![MongoDB](https://img.shields.io/badge/MONGODB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E3A8A?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1E40AF?style=for-the-badge&logo=mongodb&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-2563EB?style=for-the-badge&logo=apachespark&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-1E3A8A?style=for-the-badge&logo=Tableau&logoColor=white)
 
 </div>
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-<details>
-<summary>🌩️ <b>CLOUD WARFARE SYSTEMS</b></summary>
-<br>
+### **Cloud & DevOps**
 
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS_CLOUD-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000)
-![GCP](https://img.shields.io/badge/GOOGLE_CLOUD-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=000000)
-![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=000000)
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
+![AWS](https://img.shields.io/badge/Amazon_AWS-1E3A8A?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-1E40AF?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2563EB?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1E3A8A?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1E40AF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-2563EB?style=for-the-badge&logo=Jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-1E3A8A?style=for-the-badge&logo=terraform&logoColor=white)
 
 </div>
 
-</details>
+### **Architecture & Performance**
+
+<div align="center">
+
+![Microservices](https://img.shields.io/badge/Microservices-1E40AF?style=for-the-badge&logo=microgenetics&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-2563EB?style=for-the-badge&logo=serverless&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-1E3A8A?style=for-the-badge&logo=redis&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-1E40AF?style=for-the-badge&logo=nginx&logoColor=white)
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-## 🏆 **ACTIVE MISSION DEPLOYMENTS** 🏆
+## 📊 **Development Analytics**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rupeshchintakayala&theme=cyberpunk&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ff6b6b" width="100%"/>
-
-</div>
-
-<div align="center">
 <table>
 <tr>
 <td width="50%">
 
-**🎯 STRATEGIC PROJECTS**
+<img src="https://github-readme-stats.vercel.app/api?username=rupeshchintakayala&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=1E3A8A&text_color=ffffff&icon_color=2563EB" width="100%"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshchintakayala&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=1E3A8A&text_color=ffffff" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rupeshchintakayala&theme=transparent&hide_border=true&background=0d1117&ring=1E3A8A&fire=2563EB&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" width="70%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 **Featured Projects**
+
+<table>
+<tr>
+<td width="50%">
 
 <a href="https://github.com/rupeshchintakayala/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rupeshchintakayala&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=ff6b6b" />
-</a>
-
-<a href="https://github.com/rupeshchintakayala/Data-Mining-and-Machine-Learning-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rupeshchintakayala&repo=Data-Mining-and-Machine-Learning-1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=ff6b6b" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rupeshchintakayala&repo=portfolio&theme=transparent&hide_border=true&bg_color=0d1117&title_color=1E3A8A&text_color=ffffff&icon_color=2563EB" />
 </a>
 
 <a href="https://github.com/rupeshchintakayala/Detection-of-Twitter-Bot-Accounts-using-Deep-Learning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rupeshchintakayala&repo=Detection-of-Twitter-Bot-Accounts-using-Deep-Learning&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=ff6b6b" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rupeshchintakayala&repo=Detection-of-Twitter-Bot-Accounts-using-Deep-Learning&theme=transparent&hide_border=true&bg_color=0d1117&title_color=1E3A8A&text_color=ffffff&icon_color=2563EB" />
 </a>
 
 </td>
 <td width="50%">
 
-**📊 NEURAL ANALYTICS**
+<a href="https://github.com/rupeshchintakayala/Data-Mining-and-Machine-Learning-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rupeshchintakayala&repo=Data-Mining-and-Machine-Learning-1&theme=transparent&hide_border=true&bg_color=0d1117&title_color=1E3A8A&text_color=ffffff&icon_color=2563EB" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rupeshchintakayala&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=ff6b6b&rank_icon=github" width="100%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rupeshchintakayala&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff41&fire=ff6b6b&currStreakLabel=00ff41" width="100%"/>
+<a href="https://github.com/rupeshchintakayala/Business-Intelligence-and-Business-Analytics">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rupeshchintakayala&repo=Business-Intelligence-and-Business-Analytics&theme=transparent&hide_border=true&bg_color=0d1117&title_color=1E3A8A&text_color=ffffff&icon_color=2563EB" />
+</a>
 
 </td>
 </tr>
 </table>
-</div>
-
----
-
-<div align="center">
-
-## 🏅 **ACHIEVEMENT UNLOCKED** 🏅
-
-<img src="https://github-profile-trophy.vercel.app/?username=rupeshchintakayala&theme=matrix&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10"/>
 
 </div>
 
@@ -180,26 +184,96 @@
 
 <div align="center">
 
-## 📡 **ESTABLISH CONNECTION** 📡
+## 💡 **Core Competencies**
 
+<table>
+<tr>
+<td align="center" width="25%">
+
+**🏗️ System Architecture**
 ```
-┌─────────────────────────────────────────────────┐
-│  INITIATING SECURE COMMUNICATION PROTOCOLS...  │
-│  ████████████████████████████████████████ 100% │
-│  CONNECTION ESTABLISHED ✓                       │
-└─────────────────────────────────────────────────┘
+Microservices Design
+Scalable Solutions
+Performance Optimization
 ```
+
+</td>
+<td align="center" width="25%">
+
+**📊 Data Engineering**
+```
+ETL Pipelines
+Real-time Processing
+Analytics Platforms
+```
+
+</td>
+<td align="center" width="25%">
+
+**☁️ Cloud Solutions**
+```
+AWS/GCP Architecture
+Serverless Computing
+Infrastructure as Code
+```
+
+</td>
+<td align="center" width="25%">
+
+**🔄 DevOps & CI/CD**
+```
+Automated Deployments
+Container Orchestration
+Monitoring & Logging
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 **GitHub Achievements**
+
+<img src="https://github-profile-trophy.vercel.app/?username=rupeshchintakayala&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 **Contribution Graph**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rupeshchintakayala&theme=github-compact&hide_border=true&bg_color=0d1117&color=1E3A8A&line=2563EB&point=ffffff" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 **Let's Connect**
 
 <table>
 <tr>
 <td align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN_NEURAL_LINK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/rupeshchintakayala)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupeshchintakayala)
 
 </td>
 <td align="center">
 
-[![Portfolio](https://img.shields.io/badge/HOLOGRAPHIC_PORTFOLIO-FF6B6B?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)](https://rupeshchintakayala.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white)](https://rupeshchintakayala.github.io/portfolio/)
+
+</td>
+<td align="center">
+
+[![Email](https://img.shields.io/badge/Email-1E40AF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </td>
 </tr>
@@ -211,31 +285,17 @@
 
 <div align="center">
 
-## 🌌 **SYSTEM METRICS** 🌌
+## 💭 **Professional Philosophy**
 
-<img src="https://komarev.com/ghpvc/?username=rupeshchintakayala&style=for-the-badge&color=00ff41&labelColor=000000&label=NEURAL+VISITORS" alt="Profile Views" />
+> *"Transforming complex data into actionable insights while building scalable, performant systems that drive business value."*
 
-```
-╔════════════════════════════════════════════════════════════════════╗
-║                    🤖 SYSTEM STATUS: FULLY OPERATIONAL 🤖          ║
-║                                                                    ║
-║  "In the realm of data and code, I am the architect of tomorrow"  ║
-║                                                                    ║
-║                    ⚡ READY FOR NEXT MISSION ⚡                    ║
-╚════════════════════════════════════════════════════════════════════╝
-```
+<br>
 
-<!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+**Current Focus:** Cloud-native architectures, data-driven solutions, and performance optimization
+
+<img src="https://komarev.com/ghpvc/?username=rupeshchintakayala&style=flat-square&color=1E3A8A" alt="Profile Views" />
+
+<!-- Blue-Black Gradient Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,20,30&height=120&section=footer"/>
 
 </div>
-
-<!-- Hidden ASCII Art for GitHub Profile -->
-<!--
-    ██████╗ ██╗   ██╗██████╗ ███████╗███████╗██╗  ██╗
-    ██╔══██╗██║   ██║██╔══██╗██╔════╝██╔════╝██║  ██║
-    ██████╔╝██║   ██║██████╔╝█████╗  ███████╗███████║
-    ██╔══██╗██║   ██║██╔═══╝ ██╔══╝  ╚════██║██╔══██║
-    ██║  ██║╚██████╔╝██║     ███████╗███████║██║  ██║
-    ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚══════╝╚══════╝╚═╝  ╚═╝
--->
