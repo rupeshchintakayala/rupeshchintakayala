@@ -12,7 +12,7 @@
 ### 🚀 About Me
 
 🎓 First Class Honours M.Sc. in **Data Analytics**  
-💻 4+ years as a **Full-Stack Software Engineer**  
+💻 5+ years as a **Full-Stack Software Engineer**  
 ☁️ Hands-on experience with **AWS**, **GCP**, and **Serverless Architectures**  
 🔧 Proficient in **CI/CD**, performance optimization, and system migration  
 📊 Passionate about turning data into insights & scalable solutions
@@ -42,19 +42,47 @@
 
 ---
 
-### 📊 GitHub Stats
+My recent projects :rocket:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rupeshchintakayala&show_icons=true&theme=monokai" alt="GitHub Stats" />
-</p>
+<a href="[https://github.com/Ankit512/object-detection-using-trigger-word](https://github.com/rupeshchintakayala/portfolio)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rupeshchintakayala&repo=portfolio" />
+</a>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rupeshchintakayala&theme=monokai" alt="GitHub Streak" />
-</p>
+<a href="https://github.com/rupeshchintakayala/Data-Mining-and-Machine-Learning-1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rupeshchintakayala&repo=Data-Mining-and-Machine-Learning-1" />
+</a>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rupeshchintakayala&theme=monokai" alt="Trophies" />
-</p>
+<a href="https://github.com/rupeshchintakayala/Detection-of-Twitter-Bot-Accounts-using-Deep-Learning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rupeshchintakayala&repo=Detection-of-Twitter-Bot-Accounts-using-Deep-Learning" />
+</a>
+
+<a href="https://github.com/rupeshchintakayala/Data-Mining-and-Machine-Learning-2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rupeshchintakayala&repo=Data-Mining-and-Machine-Learning-2" />
+</a>
+
+<a href="https://github.com/rupeshchintakayala/Business-Intelligence-and-Business-Analytics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rupeshchintakayala&repo=Business-Intelligence-and-Business-Analytics" />
+</a>
+
+---
+
+### 📊 GitHub Insights
+
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rupeshchintakayala&show_icons=true&hide_border=true&bg_color=00000000&theme=tokyonight&rank_icon=github" width="48%" />
+
+  <!-- GitHub Contribution Graph (alternative to streaks) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rupeshchintakayala&theme=tokyo-night&hide_border=true" width="100%" />
+
+  <!-- GitHub Trophies -->
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=rupeshchintakayala&theme=tokyo-night&no-frame=true&no-bg=true&column=6" />
+
+</div>
+
+
 
 
 ---
