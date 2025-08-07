@@ -4,7 +4,7 @@
 <h3 align="center">Data Analyst | Full-Stack Software Engineer | Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1E90FF&width=435&lines=Data+Analytics+MSc+Graduate;Full-stack+Engineer+%7C+Java+%7C+Python+%7C+Spring+Boot;Cloud-native+Developer+on+AWS+%2B+GCP;Tech+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Data+Analytics+MSc+Graduate;Full-stack+Engineer+|+Java+|+Python+|+Spring+Boot;Cloud-native+Developer+on+AWS+and+GCP;Tech+Enthusiast+|+Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
