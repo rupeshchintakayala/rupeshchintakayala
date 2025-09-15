@@ -271,11 +271,11 @@ Monitoring & Logging
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white)](https://rupeshchintakayala.github.io/portfolio/)
 
 </td>
-<td align="center">
+<!-- <td align="center">
 
 [![Email](https://img.shields.io/badge/Email-1E40AF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-</td>
+</td> -->
 </tr>
 </table>
 
@@ -287,11 +287,11 @@ Monitoring & Logging
 
 ## 💭 **Professional Philosophy**
 
-> *"Transforming complex data into actionable insights while building scalable, performant systems that drive business value."*
+> *"Designing secure, intelligent, and scalable systems that not only solve today’s challenges but also anticipate tomorrow’s needs."*
 
 <br>
 
-**Current Focus:** Cloud-native architectures, data-driven solutions, and performance optimization
+**Current Focus:** Cloud-native engineering, data intelligence, and next-gen system performance & reliability.
 
 <img src="https://komarev.com/ghpvc/?username=rupeshchintakayala&style=flat-square&color=1E3A8A" alt="Profile Views" />
 
